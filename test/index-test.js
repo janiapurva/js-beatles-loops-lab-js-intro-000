@@ -1,4 +1,4 @@
- 
+
 
     function theBeatlesPlay(musicians, instruments) {
       var array = [];
@@ -26,4 +26,3 @@
         number += 1
       } while (number < 15);
       return array;
-    
