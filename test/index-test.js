@@ -14,7 +14,7 @@ theBeatlesPlay function(musician,instruments) {
         "He hated the sound of his own voice"
       ])).toEqual(["He was the last Beatle to learn to drive!!!", "He was never a vegetarian!!!", "He was a choir boy and boy scout!!!", "He hated the sound of his own voice!!!"]);
     });
-    
+
     it("takes in any array of strings and returns a new array with exclamation points added to each element", function() {
       expect(johnLennonFacts([
         "While on tour, he enjoyed playing Monopoly",
